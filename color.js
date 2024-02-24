@@ -38,4 +38,4 @@ class Color {
   const color = new Color(255, 0, 0); // Skapa en röd färg
 console.log(color.rgb()); // Returnerar "rgb(255, 0, 0)"
 console.log(color.hex()); // Returnerar "#ff0000"
-console.log(color.rgba(0.5)); // Returnerar "rgba(255, 0, 0, 0.5)"
+console.log(color.rgba(1)); // Returnerar "rgba(255, 0, 0, 0.5)"
