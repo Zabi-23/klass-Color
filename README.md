@@ -15,4 +15,4 @@ Returnerar färgen i RGBA-formatet där alpha är det genomskinlighetsvärdet. D
 
 #### Användning
 
-Du kan använda denna klass genom att skapa en ny instans av Color och sedan anropa dess metoder för att konvertera och använda färgen enligt behov. Ett exempel är att uppdatera bakgrundsfärgen på en sida baserat på användarens input.
+Du kan använda denna klass genom att skapa en ny instans av Color och sedan anropa dess metoder för att konvertera och använda färgen enligt behov. Ett exempel är att uppdatera boxfärgen på en sida baserat på användarens input.
